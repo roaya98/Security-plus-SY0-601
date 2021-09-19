@@ -36,7 +36,15 @@
 
 [Exam objective](https://github.com/roaya98/Security-plus-SY0-601/files/7192835/CompTIASY0601Securityplus.pdf) مهمه للإتطلاع على مواضيع الاختبار والتعليمات
 
- 
+[CompTIA Security+ book](https://github.com/roaya98/Security-plus-SY0-601/files/7192873/CompTIA.Security_.SY0-601.pdf) هذا أحد الكتب الي تشرح المنهج وفيه غيره كثير
+  
 </div>
+
+## <div align="right">:للتواصل</div>
+<div align="right">
+  
+[Linkedin](www.linkedin.com/in/roaya-alansari) أسعد بتواصلكم معي للأسئلة والمساعدة على حسابي في 
+
+[قناة تيليقرام خاصة بالشهادة](https://t.me/letsgosecurity) 
 
 
