@@ -27,22 +27,11 @@
 </div>
 
 **<div align="right">:وراح أذكر بعض المصادر المفيدة الي ساعدتني شخصياً فالنجاح فالإختبار</div>**
-<div align="right">
+
 [دورة ديون في يوديمي](https://www.udemy.com/course/securityplus/) ممتازة جداً , شرح سلس وواضح ويتضمن الكورس كويزات وملاحظات واختبار تجريبي
-</div>
 
-<div align="right">
-[بروفيسور ميسير فاليوتيوب](https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8) قناه فاليوتيوب تحتوي على شروحات لكل أقسام الإختبار مع مستند ملاحظات
-</div>
+[بروفيسور ميسير](https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8) قناه فاليوتيوب عبارة عن شروحات لكل محتوى الشهادة مع ملاحظات البروفيسور.
 
-<div align="right">
-[بروفيسور ميسير فاليوتيوب](https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8) قناه فاليوتيوب تحتوي على شروحات لكل أقسام الإختبار مع مستند ملاحظات
-</div>
-
-
-
-
-This site was built using [GitHub Pages](https://pages.github.com/).
-
+[Exam objective](https://youtube.com/playlist?list=PLG49S3nxzAnkL2ulFS3132mOVKuzzBxA8)  مهمه للاتطلاع على مواضيع الاختبار والتعليمات 
 
 
