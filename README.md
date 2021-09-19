@@ -43,7 +43,8 @@
 ## <div align="right">:للتواصل</div>
 <div align="right">
   
-[Linkedin](www.linkedin.com/in/roaya-alansari) 
+[Linkedin](www.linkedin.com/in/roaya-alansari
+) 
 
 [قناة تيليقرام خاصة بالشهادة](https://t.me/letsgosecurity) 
 
