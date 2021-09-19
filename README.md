@@ -37,6 +37,8 @@
 [Exam objective](https://github.com/roaya98/Security-plus-SY0-601/files/7192835/CompTIASY0601Securityplus.pdf) مهمه للإتطلاع على مواضيع الاختبار والتعليمات
 
 [CompTIA Security+ book](https://github.com/roaya98/Security-plus-SY0-601/files/7192873/CompTIA.Security_.SY0-601.pdf) هذا أحد الكتب الي تشرح المنهج وفيه غيره كثير
+
+[إختبارات تجريبيه](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests) مفيدة وتساعد على التعرف على نوعيه وطريقة الأسئلة فالأختبار 
   
 </div>
 
