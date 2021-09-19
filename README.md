@@ -43,7 +43,7 @@
 ## <div align="right">:للتواصل</div>
 <div align="right">
   
-[Linkedin](www.linkedin.com/in/roaya-alansari) أسعد بتواصلكم معي للأسئلة والمساعدة على حسابي في 
+[Linkedin](www.linkedin.com/in/roaya-alansari) 
 
 [قناة تيليقرام خاصة بالشهادة](https://t.me/letsgosecurity) 
 
